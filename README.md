@@ -7,7 +7,7 @@
 ### Welcome to my GitHub Profile! 👋
 
 - :microscope: Currently learning - React Hooks, Tailwind CSS, and TypeScript
-- :books: Stack - React, JavaScript (ES5 / ES6), CSS3, HTML5, Node.js, Express
+- :books: Stack - React.js, JavaScript (ES5 / ES6), CSS3, HTML5, Node.js, Express.js
 - :wrench: Tools - Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack, Figma
 
 ## :speech_balloon: About Me
